@@ -77,10 +77,4 @@ It provides **key insights** into **agent efficiency, customer satisfaction, cal
 ### **Call Center Performance Dashboard**
 ![KPI Dashboard](Final%20Dashboard.JPG)
 
----
 
-## 🚀 **How to Run This Project**
-### **1️⃣ Clone the Repository**
-```bash
-git clone https://github.com/PrakashDura/call-center-kpi-dashboard.git
-cd call-center-kpi-dashboard
