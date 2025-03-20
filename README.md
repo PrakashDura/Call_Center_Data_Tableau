@@ -74,7 +74,11 @@ It provides **key insights** into **agent efficiency, customer satisfaction, cal
 ---
 
 ## 📸 **Tableau KPI Dashboard**
-### **Call Center Performance Dashboard**
-![KPI Dashboard](Final%20Dashboard.JPG)
+### **🔗 View the Interactive Dashboard**
+🚀 **[Live Tableau Public Link](https://public.tableau.com/app/profile/prakash.dura4844/viz/CallCenterDataProject_17401664849110/Dashboard1)**  
 
+### **📥 Download the Tableau Project**
+💾 **[Final Dashboard.twbx](Final%20Dashboard.twbx)** *(For Tableau Desktop Users)*  
+
+---
 
