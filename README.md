@@ -72,6 +72,10 @@ It provides **key insights** into **agent efficiency, customer satisfaction, cal
   - **Filters & Interactive Controls** – For better drill-down analysis  
 
 ---
+ 
+## 📸 **Tableau KPI Dashboard**
+### **Call Center Performance Dashboard**
+![KPI Dashboard](Final%20Dashboard.JPG)
 
 ## 📸 **Tableau KPI Dashboard**
 ### **🔗 View the Interactive Dashboard**
@@ -79,8 +83,4 @@ It provides **key insights** into **agent efficiency, customer satisfaction, cal
 
 📥 **[Download Tableau Project](Call%20Center%20Data%20Project.twbx)**
  *(For Tableau Desktop Users)*  
- 
-## 📸 **Tableau KPI Dashboard**
-### **Call Center Performance Dashboard**
-![KPI Dashboard](Final%20Dashboard.JPG)
 
